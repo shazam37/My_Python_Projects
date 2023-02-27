@@ -6,8 +6,16 @@
 
 -> I have written code that if uploaded on the cloud can run continously and send birthday wishes email to my contacts. We store the birthdate information of our contacts in a csv file. We itertate over the csv file all the time to check whether anyone's birthdate falls today so that the program can send email. There are several templates for the birthday wish which is randomly chosen by the program. 
 
-3. Coffee-Machine Project
+3. Coffee-Machine 
 
 -> I have written code that copies the action of a coffee machine. We give the amount of raw materials (as dictionary entries) to the machine initially to begin with. The code maintains the amount of each raw material needed to prepare a given coffee (3 choices of coffee). When the code runs, the customer is displayed all the available options of coffee to choose from. The money given by the customer is processed and change is returned if the amount was excess. Since the code maintains the amount of raw material, so if any of the raw material falls short, the coffee machine instructs us to refill that raw material. 
 
-4. 
+4. Password manager
+
+-> I have coded an application that keeps a track of your passwords that you use in different places. The programs interface and design is built using Python's Tkinter GUI toolkit. The information is stored in a csv file. 
+
+5. Top 100 Movies
+
+-> I have written code that scrapes a movie website to list out the top 100 movies. We use beuaitful soup library to carry out the web scraping. The contents scraped are saved in as a csv file.
+
+6. 
