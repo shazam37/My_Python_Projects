@@ -26,5 +26,9 @@
 
 -> I have written code that sends an API request to track the stock information of about the company of interest. It checks the yesterdays stock price of the company with todays. If the stock price falls down, we are alerted about it through email.
 
-8. 
+8. Flight deal tracker
+
+-> I have written a code that informs us about cheapest flight deals from our city to other locations. I have built an interface where any one can register for the service by giving their email id. The program is made with the help of leveraging multiple classes to serve different functions. 
+
+9. 
 
