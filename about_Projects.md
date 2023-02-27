@@ -22,4 +22,9 @@
 
 -> I have coded an application that replicates a quiz game. I have used Tkinter GUI toolkit to give it the required structure. Random questions pop on the screen to which we either answer right or wrong. If we answer right, we gain one point which is recorded as score on the top left corner of the screen. 
 
+7. Stock-market news 
+
+-> I have written code that sends an API request to track the stock information of about the company of interest. It checks the yesterdays stock price of the company with todays. If the stock price falls down, we are alerted about it through email.
+
+8. 
 
