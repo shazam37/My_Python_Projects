@@ -30,5 +30,6 @@
 
 -> I have written a code that informs us about cheapest flight deals from our city to other locations. I have built an interface where any one can register for the service by giving their email id. The program is made with the help of leveraging multiple classes to serve different functions. 
 
-9. 
+9. Cookie Manager 
 
+-> I have written a code that automates the process of playing cookie manager game on the internet. I have used Selenium testing tool to automate this behaviour. 
