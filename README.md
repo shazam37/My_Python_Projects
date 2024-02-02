@@ -1,4 +1,4 @@
-The following Python Projects were implemented:
+The following Python Projects were implemented in this repo:
 
 . Auto Birthday-Wisher- developed a code that can be hosted on the cloud to send birthday wishes through emails
 
